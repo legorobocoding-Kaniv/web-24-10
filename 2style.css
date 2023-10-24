@@ -1,0 +1,8 @@
+div {
+width: 100%;
+margin-bottom: 5px;
+border: 2px solid blue;
+}
+.nav-list li{
+	display: inline-block;
+}
